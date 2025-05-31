@@ -44,7 +44,7 @@
                                 <h3 class="project-title">{{ $project['title'] }}</h3>
                                 <p class="project-description">{{ $project['description'] }}</p>
                                 <a href="{{ $project['link'] }}" target="_blank" class="project-link">
-                                    <span>View In Dribbble</span>
+                                    <span>View Projects</span>
                                     <i class="fas fa-arrow-right"></i>
                                 </a>
                             </div>
@@ -75,7 +75,7 @@
                                 <h3 class="project-title">{{ $project['title'] }}</h3>
                                 <p class="project-description">{{ $project['description'] }}</p>
                                 <a href="{{ $project['link'] }}" target="_blank" class="project-link">
-                                    <span>View In Dribbble</span>
+                                    <span>View Projects</span>
                                     <i class="fas fa-arrow-right"></i>
                                 </a>
                             </div>
@@ -106,7 +106,7 @@
                                 <h3 class="project-title">{{ $project['title'] }}</h3>
                                 <p class="project-description">{{ $project['description'] }}</p>
                                 <a href="{{ $project['link'] }}" target="_blank" class="project-link">
-                                    <span>View In Dribbble</span>
+                                    <span>View Projects</span>
                                     <i class="fas fa-arrow-right"></i>
                                 </a>
                             </div>
@@ -137,7 +137,7 @@
                                 <h3 class="project-title">{{ $project['title'] }}</h3>
                                 <p class="project-description">{{ $project['description'] }}</p>
                                 <a href="{{ $project['link'] }}" target="_blank" class="project-link">
-                                    <span>View In Dribbble</span>
+                                    <span>View Projects</span>
                                     <i class="fas fa-arrow-right"></i>
                                 </a>
                             </div>
