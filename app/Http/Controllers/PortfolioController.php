@@ -18,7 +18,7 @@ class PortfolioController extends Controller
     private function getPersonalInfo()
     {
         return [
-            'name' => 'Rayhan Wahyu Taufiqurrahmanw',
+            'name' => 'Rayhan Wahyu Taufiqurrahman',
             'title' => 'Innovative Designer & Developer Specializing in Web, Mobile, and AI Experiences',
             'description' => 'A passionate product designer and developer, dedicated to creating innovative digital experiences that drive engagement and inspire users across platforms.',
             'profile_image' => 'assets/images/profile.jpg',
